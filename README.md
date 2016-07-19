@@ -1,0 +1,2 @@
+# Angular
+AngularJS NodeJS Seed.
